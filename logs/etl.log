@@ -1,0 +1,305 @@
+2026-07-06 19:39:36 | INFO     | etl.extract | Downloading: https://data.cdc.gov/api/views/bi63-dtpu/rows.csv?accessType=DOWNLOAD
+2026-07-06 19:39:36 | INFO     | etl.extract | Saved to: C:\Users\Cody\Desktop\codey\healthcare-project\data\raw\cdc_mortality.csv (0.8 MB)
+2026-07-06 19:39:36 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 19:39:37 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 19:39:37 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-06 19:43:49 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-06 19:43:49 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 19:43:49 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 19:43:49 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-06 19:56:20 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-06 19:56:20 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 19:56:20 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 19:56:20 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-06 20:12:59 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-06 20:12:59 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 20:12:59 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 20:12:59 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-06 20:14:27 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-06 20:14:27 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 20:14:27 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 20:14:27 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-06 20:15:28 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-06 20:15:28 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 20:15:28 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 20:15:28 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-06 20:16:28 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-06 20:16:28 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 20:16:28 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 20:16:28 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-06 20:23:58 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-06 20:23:58 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 20:23:58 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 20:23:58 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-06 20:43:14 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-06 20:43:14 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 20:43:14 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 20:43:14 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-06 20:43:37 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-06 20:43:37 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-06 20:43:37 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-06 20:43:37 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 18:57:12 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 18:57:12 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 18:57:13 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 18:57:13 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 18:57:31 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 18:57:31 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 18:57:31 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 18:57:31 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 18:58:11 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 18:58:11 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 18:58:11 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 18:58:11 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 18:58:27 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 18:58:27 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 18:58:27 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 18:58:27 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:08:14 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:08:14 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:08:14 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:08:14 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:09:41 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:09:41 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:09:41 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:09:41 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:10:53 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:10:53 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:10:53 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:10:53 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:17:37 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:17:37 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:17:37 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:17:37 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:17:57 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:17:57 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:17:57 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:17:57 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:18:42 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:18:42 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:18:42 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:18:42 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:21:44 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:21:44 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:21:44 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:21:44 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:22:20 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:22:20 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:22:20 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:22:20 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:22:40 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:22:40 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:22:40 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:22:40 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-07 19:25:45 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-07 19:25:45 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-07 19:25:45 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-07 19:25:45 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-08 17:47:04 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-08 17:47:04 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-08 17:47:04 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-08 17:47:04 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-08 17:47:57 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-08 17:47:57 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-08 17:47:57 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-08 17:47:57 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-08 17:51:57 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-08 17:51:57 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-08 17:51:57 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-08 17:51:57 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-08 17:52:41 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-08 17:52:41 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-08 17:52:41 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-08 17:52:41 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-08 17:59:51 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-08 17:59:51 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-08 17:59:51 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-08 17:59:51 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-13 18:31:59 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-13 18:31:59 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-13 18:31:59 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-13 18:31:59 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-15 18:39:57 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-15 18:39:57 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-15 18:39:57 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-15 18:39:57 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-15 18:39:57 | INFO     | etl.transform | Transforming CDC mortality data: 10868 input rows
+2026-07-15 18:39:57 | WARNING  | etl.transform | Dropped 209 rows — national rollup rows (State == 'United States')
+2026-07-15 18:39:57 | WARNING  | etl.transform | Dropped 969 rows — rows with no ICD-10 code in cause name
+2026-07-15 18:39:57 | INFO     | etl.transform | CDC mortality transform complete: 9690 clean rows
+2026-07-15 21:11:40 | INFO     | __main__ | Pipeline Start
+2026-07-15 21:11:40 | INFO     | etl.extract | Downloading: https://www.cms.gov/files/zip/2024-code-descriptions-tabular-order-updated-01/11/2024.zip
+2026-07-29 18:19:33 | INFO     | __main__ | Pipeline Start
+2026-07-29 18:19:33 | INFO     | etl.extract | Downloading: https://www.cms.gov/files/zip/2024-code-descriptions-tabular-order-updated-01/11/2024.zip
+2026-07-29 18:42:31 | INFO     | __main__ | Pipeline Start
+2026-07-29 18:42:31 | INFO     | etl.extract | Reading ICD-10 code file...
+2026-07-29 18:42:31 | INFO     | etl.extract | Extracted 1 ICD-10 codes
+2026-07-29 18:42:31 | INFO     | etl.transform | Transforming ICD-10 codes: 1 input rows
+2026-07-29 18:42:31 | INFO     | etl.transform | ICD-10 transform complete: 1 clean rows
+2026-07-29 18:42:31 | INFO     | etl.load | Loading 1 ICD-10 codes...
+2026-07-29 18:42:31 | ERROR    | etl.config | Could not connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-07-29 18:56:58 | INFO     | __main__ | Pipeline Start
+2026-07-29 18:56:58 | INFO     | etl.extract | Reading ICD-10 code file...
+2026-07-29 18:56:58 | INFO     | etl.extract | Extracted 74719 ICD-10 codes
+2026-07-29 18:56:58 | INFO     | etl.transform | Transforming ICD-10 codes: 74719 input rows
+2026-07-29 18:56:59 | INFO     | etl.transform | ICD-10 transform complete: 74719 clean rows
+2026-07-29 18:56:59 | INFO     | etl.load | Loading 74719 ICD-10 codes...
+2026-07-29 18:56:59 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 18:56:59 | INFO     | etl.load |   Loaded 10000 / 74719 rows
+2026-07-29 18:56:59 | INFO     | etl.load |   Loaded 20000 / 74719 rows
+2026-07-29 18:56:59 | INFO     | etl.load |   Loaded 30000 / 74719 rows
+2026-07-29 18:57:00 | INFO     | etl.load |   Loaded 40000 / 74719 rows
+2026-07-29 18:57:00 | INFO     | etl.load |   Loaded 50000 / 74719 rows
+2026-07-29 18:57:00 | INFO     | etl.load |   Loaded 60000 / 74719 rows
+2026-07-29 18:57:00 | INFO     | etl.load |   Loaded 70000 / 74719 rows
+2026-07-29 18:57:00 | INFO     | etl.load |   Loaded 74719 / 74719 rows
+2026-07-29 18:57:00 | INFO     | etl.load | ICD-10 load complete: 74719 rows upserted
+2026-07-29 18:57:00 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-29 18:57:00 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-29 18:57:00 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-29 18:57:00 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-29 18:57:00 | INFO     | etl.transform | Transforming CDC mortality data: 10868 input rows
+2026-07-29 18:57:00 | WARNING  | etl.transform | Dropped 209 rows — national rollup rows (State == 'United States')
+2026-07-29 18:57:00 | WARNING  | etl.transform | Dropped 969 rows — rows with no ICD-10 code in cause name
+2026-07-29 18:57:00 | INFO     | etl.transform | CDC mortality transform complete: 9690 clean rows
+2026-07-29 18:57:00 | INFO     | etl.load | Loading 9690 demo_aggregates...
+2026-07-29 18:57:01 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 18:57:01 | ERROR    | etl.load | demo_aggregates load failed, transaction rolled back: insert or update on table "demo_aggregates" violates foreign key constraint "demo_aggregates_icd10_code_fkey"
+DETAIL:  Key (icd10_code)=(V01) is not present in table "icd10_codes".
+
+2026-07-29 19:24:18 | INFO     | __main__ | Pipeline Start
+2026-07-29 19:24:18 | INFO     | etl.extract | Reading ICD-10 code file...
+2026-07-29 19:24:18 | INFO     | etl.extract | Extracted 74719 ICD-10 codes
+2026-07-29 19:24:18 | INFO     | etl.transform | Transforming ICD-10 codes: 74719 input rows
+2026-07-29 19:24:19 | INFO     | etl.transform | ICD-10 transform complete: 74719 clean rows
+2026-07-29 19:24:19 | INFO     | etl.load | Loading 74719 ICD-10 codes...
+2026-07-29 19:24:19 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:24:19 | INFO     | etl.load |   Loaded 10000 / 74719 rows
+2026-07-29 19:24:19 | INFO     | etl.load |   Loaded 20000 / 74719 rows
+2026-07-29 19:24:19 | INFO     | etl.load |   Loaded 30000 / 74719 rows
+2026-07-29 19:24:20 | INFO     | etl.load |   Loaded 40000 / 74719 rows
+2026-07-29 19:24:20 | INFO     | etl.load |   Loaded 50000 / 74719 rows
+2026-07-29 19:24:20 | INFO     | etl.load |   Loaded 60000 / 74719 rows
+2026-07-29 19:24:20 | INFO     | etl.load |   Loaded 70000 / 74719 rows
+2026-07-29 19:24:20 | INFO     | etl.load |   Loaded 74719 / 74719 rows
+2026-07-29 19:24:20 | INFO     | etl.load | ICD-10 load complete: 74719 rows upserted
+2026-07-29 19:24:20 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-29 19:24:20 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-29 19:24:20 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-29 19:24:20 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-29 19:24:20 | INFO     | etl.transform | Transforming CDC mortality data: 10868 input rows
+2026-07-29 19:24:20 | WARNING  | etl.transform | Dropped 209 rows — national rollup rows (State == 'United States')
+2026-07-29 19:24:20 | WARNING  | etl.transform | Dropped 969 rows — rows with no ICD-10 code in cause name
+2026-07-29 19:24:20 | INFO     | etl.transform | CDC mortality transform complete: 9690 clean rows
+2026-07-29 19:24:20 | INFO     | etl.load | Loading 9690 demo_aggregates...
+2026-07-29 19:24:20 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:24:20 | ERROR    | etl.load | demo_aggregates load failed, transaction rolled back: insert or update on table "demo_aggregates" violates foreign key constraint "demo_aggregates_icd10_category_fkey"
+DETAIL:  Key (icd10_category)=(V01) is not present in table "icd10_codes".
+
+2026-07-29 19:37:29 | INFO     | __main__ | Pipeline Start
+2026-07-29 19:37:29 | INFO     | etl.extract | Reading ICD-10 code file...
+2026-07-29 19:37:29 | INFO     | etl.extract | Extracted 74719 ICD-10 codes
+2026-07-29 19:37:29 | INFO     | etl.transform | Transforming ICD-10 codes: 74719 input rows
+2026-07-29 19:37:29 | INFO     | etl.transform | ICD-10 transform complete: 74719 clean rows
+2026-07-29 19:37:29 | INFO     | etl.load | Loading 74719 ICD-10 codes...
+2026-07-29 19:37:29 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:37:30 | INFO     | etl.load |   Loaded 10000 / 74719 rows
+2026-07-29 19:37:30 | INFO     | etl.load |   Loaded 20000 / 74719 rows
+2026-07-29 19:37:30 | INFO     | etl.load |   Loaded 30000 / 74719 rows
+2026-07-29 19:37:30 | INFO     | etl.load |   Loaded 40000 / 74719 rows
+2026-07-29 19:37:30 | INFO     | etl.load |   Loaded 50000 / 74719 rows
+2026-07-29 19:37:31 | INFO     | etl.load |   Loaded 60000 / 74719 rows
+2026-07-29 19:37:31 | INFO     | etl.load |   Loaded 70000 / 74719 rows
+2026-07-29 19:37:31 | INFO     | etl.load |   Loaded 74719 / 74719 rows
+2026-07-29 19:37:31 | INFO     | etl.load | ICD-10 load complete: 74719 rows upserted
+2026-07-29 19:37:31 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-29 19:37:31 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-29 19:37:31 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-29 19:37:31 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-29 19:37:31 | INFO     | etl.transform | Transforming CDC mortality data: 10868 input rows
+2026-07-29 19:37:31 | WARNING  | etl.transform | Dropped 209 rows — national rollup rows (State == 'United States')
+2026-07-29 19:37:31 | WARNING  | etl.transform | Dropped 969 rows — rows with no ICD-10 code in cause name
+2026-07-29 19:37:31 | INFO     | etl.transform | CDC mortality transform complete: 9690 clean rows
+2026-07-29 19:37:31 | INFO     | etl.load | Loading 9690 demo_aggregates...
+2026-07-29 19:37:31 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:37:31 | ERROR    | etl.load | demo_aggregates load failed, transaction rolled back: insert or update on table "demo_aggregates" violates foreign key constraint "demo_aggregates_icd10_code_fkey"
+DETAIL:  Key (icd10_code)=(V01) is not present in table "icd10_codes".
+
+2026-07-29 19:44:38 | INFO     | __main__ | Pipeline Start
+2026-07-29 19:44:38 | INFO     | etl.extract | Reading ICD-10 code file...
+2026-07-29 19:44:38 | INFO     | etl.extract | Extracted 74719 ICD-10 codes
+2026-07-29 19:44:38 | INFO     | etl.transform | Transforming ICD-10 codes: 74719 input rows
+2026-07-29 19:44:38 | INFO     | etl.transform | ICD-10 transform complete: 74719 clean rows
+2026-07-29 19:44:38 | INFO     | etl.load | Loading 74719 ICD-10 codes...
+2026-07-29 19:44:38 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:44:38 | INFO     | etl.load |   Loaded 10000 / 74719 rows
+2026-07-29 19:44:39 | INFO     | etl.load |   Loaded 20000 / 74719 rows
+2026-07-29 19:44:39 | INFO     | etl.load |   Loaded 30000 / 74719 rows
+2026-07-29 19:44:39 | INFO     | etl.load |   Loaded 40000 / 74719 rows
+2026-07-29 19:44:40 | INFO     | etl.load |   Loaded 50000 / 74719 rows
+2026-07-29 19:44:40 | INFO     | etl.load |   Loaded 60000 / 74719 rows
+2026-07-29 19:44:40 | INFO     | etl.load |   Loaded 70000 / 74719 rows
+2026-07-29 19:44:40 | INFO     | etl.load |   Loaded 74719 / 74719 rows
+2026-07-29 19:44:40 | INFO     | etl.load | ICD-10 load complete: 74719 rows upserted
+2026-07-29 19:44:40 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-29 19:44:40 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-29 19:44:40 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-29 19:44:40 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-29 19:44:40 | INFO     | etl.transform | Transforming CDC mortality data: 10868 input rows
+2026-07-29 19:44:40 | WARNING  | etl.transform | Dropped 209 rows — national rollup rows (State == 'United States')
+2026-07-29 19:44:40 | WARNING  | etl.transform | Dropped 969 rows — rows with no ICD-10 code in cause name
+2026-07-29 19:44:40 | INFO     | etl.transform | CDC mortality transform complete: 9690 clean rows
+2026-07-29 19:44:40 | INFO     | etl.load | Loading 9690 demo_aggregates...
+2026-07-29 19:44:41 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:44:45 | INFO     | etl.load |   Loaded 9690 / 9690 rows
+2026-07-29 19:44:45 | INFO     | etl.load | demo_aggregates load complete: 9690 rows upserted
+2026-07-29 19:44:45 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:44:45 | INFO     | etl.load | icd10_codes rows:     74719
+2026-07-29 19:44:45 | INFO     | etl.load | demo_aggregates rows: 9690
+2026-07-29 19:44:45 | INFO     | etl.load | demo_aggregates sample:
+2026-07-29 19:44:45 | INFO     | etl.load |   ('V01', 'AL', 2017, 2703)
+2026-07-29 19:44:45 | INFO     | etl.load |   ('V01', 'AK', 2017, 436)
+2026-07-29 19:44:45 | INFO     | etl.load |   ('V01', 'AZ', 2017, 4184)
+2026-07-29 19:44:45 | INFO     | etl.load |   ('V01', 'AR', 2017, 1625)
+2026-07-29 19:44:45 | INFO     | etl.load |   ('V01', 'CA', 2017, 13840)
+2026-07-29 19:44:45 | INFO     | __main__ | Pipeline Complete
+2026-07-29 19:50:41 | INFO     | __main__ | Pipeline Start
+2026-07-29 19:50:41 | INFO     | etl.extract | Reading ICD-10 code file...
+2026-07-29 19:50:41 | INFO     | etl.extract | Extracted 74719 ICD-10 codes
+2026-07-29 19:50:41 | INFO     | etl.transform | Transforming ICD-10 codes: 74719 input rows
+2026-07-29 19:50:41 | INFO     | etl.transform | ICD-10 transform complete: 74719 clean rows
+2026-07-29 19:50:41 | INFO     | etl.load | Loading 74719 ICD-10 codes...
+2026-07-29 19:50:41 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:50:42 | INFO     | etl.load |   Loaded 10000 / 74719 rows
+2026-07-29 19:50:42 | INFO     | etl.load |   Loaded 20000 / 74719 rows
+2026-07-29 19:50:42 | INFO     | etl.load |   Loaded 30000 / 74719 rows
+2026-07-29 19:50:42 | INFO     | etl.load |   Loaded 40000 / 74719 rows
+2026-07-29 19:50:43 | INFO     | etl.load |   Loaded 50000 / 74719 rows
+2026-07-29 19:50:43 | INFO     | etl.load |   Loaded 60000 / 74719 rows
+2026-07-29 19:50:43 | INFO     | etl.load |   Loaded 70000 / 74719 rows
+2026-07-29 19:50:43 | INFO     | etl.load |   Loaded 74719 / 74719 rows
+2026-07-29 19:50:43 | INFO     | etl.load | ICD-10 load complete: 74719 rows upserted
+2026-07-29 19:50:43 | INFO     | etl.extract | File already exists, skipping download: cdc_mortality.csv
+2026-07-29 19:50:43 | INFO     | etl.extract | Reading CDC mortality CSV...
+2026-07-29 19:50:43 | INFO     | etl.extract | Loaded CDC mortality: 10868 rows x 6 columns
+2026-07-29 19:50:43 | INFO     | etl.extract | Columns: ['Year', '113 Cause Name', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']
+2026-07-29 19:50:43 | INFO     | etl.transform | Transforming CDC mortality data: 10868 input rows
+2026-07-29 19:50:43 | WARNING  | etl.transform | Dropped 209 rows — national rollup rows (State == 'United States')
+2026-07-29 19:50:43 | WARNING  | etl.transform | Dropped 969 rows — rows with no ICD-10 code in cause name
+2026-07-29 19:50:43 | INFO     | etl.transform | CDC mortality transform complete: 9690 clean rows
+2026-07-29 19:50:43 | INFO     | etl.load | Loading 9690 demo_aggregates...
+2026-07-29 19:50:43 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:50:48 | INFO     | etl.load |   Loaded 9690 / 9690 rows
+2026-07-29 19:50:48 | INFO     | etl.load | demo_aggregates load complete: 9690 rows upserted
+2026-07-29 19:50:48 | INFO     | etl.config | Database connection established: localhost/healthtrack
+2026-07-29 19:50:48 | INFO     | etl.load | icd10_codes rows:     74719
+2026-07-29 19:50:48 | INFO     | etl.load | demo_aggregates rows: 9690
+2026-07-29 19:50:48 | INFO     | etl.load | demo_aggregates sample:
+2026-07-29 19:50:48 | INFO     | etl.load |   ('V01', 'AL', 2017, 2703)
+2026-07-29 19:50:48 | INFO     | etl.load |   ('V01', 'AK', 2017, 436)
+2026-07-29 19:50:48 | INFO     | etl.load |   ('V01', 'AZ', 2017, 4184)
+2026-07-29 19:50:48 | INFO     | etl.load |   ('V01', 'AR', 2017, 1625)
+2026-07-29 19:50:48 | INFO     | etl.load |   ('V01', 'CA', 2017, 13840)
+2026-07-29 19:50:48 | INFO     | __main__ | Pipeline Complete

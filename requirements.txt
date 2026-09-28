@@ -1,0 +1,12 @@
+psycopg2-binary==2.9.9     # PostgreSQL driver
+pandas==2.2.2               # dataframe transformation
+requests==2.31.0            # HTTP downloads
+python-dotenv==1.0.1        # load .env file for secrets
+sqlalchemy==2.0.30          # DB connection + ORM utilities
+tqdm==4.66.4                # progress bars on bulk loads
+fastapi==0.111.0
+uvicorn==0.29.0        # the server that runs FastAPI
+pydantic==2.7.1        # data validation (FastAPI uses this internally)
+python-jose==3.3.0     # JWT token creation and validation
+passlib==1.7.4         # password hashing
+bcrypt==4.1.3          # hashing algorithm passlib uses
