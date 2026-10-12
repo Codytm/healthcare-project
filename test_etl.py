@@ -1,14 +1,14 @@
-# test_transform.py — end to end smoke test for the transform stage
+# test_transform.py
 from etl.extract import extract_cdc_mortality
 from etl.transform import transform_cdc_mortality
 
-# Step 1 — extract
+#extract
 df_raw = extract_cdc_mortality()
 
-# Step 2 — transform
+#transform
 df_clean = transform_cdc_mortality(df_raw)
 
-# Step 3 — inspect output
+#inspect output
 print("\n=== FINAL SHAPE ===")
 print(df_clean.shape)
 
