@@ -108,6 +108,22 @@ CREATE TABLE procedures (
 
 
 -- ============================================================
+-- API ACCOUNTS
+-- ============================================================
+
+CREATE TABLE users (
+    user_id          UUID         PRIMARY KEY DEFAULT uuid_generate_v4(),
+    username         VARCHAR(50)  NOT NULL UNIQUE,
+    hashed_password  VARCHAR(255) NOT NULL,
+    role             VARCHAR(20)  NOT NULL CHECK (role IN ('analyst', 'admin')),
+    created_at       TIMESTAMP    NOT NULL DEFAULT NOW()
+);
+
+COMMENT ON TABLE users IS
+  'API accounts. Seeded from ANALYST_PASSWORD and ADMIN_PASSWORD on startup. analyst is read-only; admin can also clear the cache.';
+
+
+-- ============================================================
 -- AGGREGATE / REPORTING TABLE
 -- ============================================================
 
